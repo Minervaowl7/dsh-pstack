@@ -106,10 +106,10 @@
   "peerDependencies": {
     "@deepseek-ai/cordis": "catalog:runtime",
     "@deepseek-ai/cordis-plugin-loader": "catalog:runtime",
-    "@deepseek-ai/dsh-llm": ">=0.2.2-rc.2",
-    "@deepseek-ai/dsh-sandbox-policy": ">=0.2.2-rc.2",
-    "@deepseek-ai/dsh-skill": ">=0.2.2-rc.2",
-    "@deepseek-ai/dsh-typert-protocol": ">=0.2.2-rc.2"
+    "@deepseek-ai/dsh-llm": "catalog:runtime",
+    "@deepseek-ai/dsh-sandbox-policy": "catalog:runtime",
+    "@deepseek-ai/dsh-skill": "catalog:runtime",
+    "@deepseek-ai/dsh-typert-protocol": "catalog:runtime"
   },
   "icon": "./assets/logo.png",
   "devEngines": {
